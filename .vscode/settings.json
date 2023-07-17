@@ -1,0 +1,34 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "localhost",
+      "database": "model",
+      "username": "postgres",
+      "password": "1234"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "test",
+      "database": "test",
+      "username": "postgres",
+      "password": "1234"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "rush01_model",
+      "database": "rush01_model",
+      "username": "postgres",
+      "password": "1234"
+    }
+  ]
+}
